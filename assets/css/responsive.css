@@ -42,10 +42,6 @@
         width: 100%;
     }
 
-    #header {
-        /* overflow: hidden; */
-    }               
-
     #header .search-btn {
         display: none;
     }
@@ -87,6 +83,15 @@
         color: #fff;
     }
 
+    #slider .text-content{
+        bottom: 27px;
+    }
+
+    #slider .text-heading{
+        margin: 15px 0;
+        font-weight: 500;
+    }
+    
     #content .content-section {
         padding-bottom: 50px;
     }
